@@ -4,7 +4,7 @@
     "description": "Notebook for Basic Python Hands-on Learning",
     "logo": "_images/notebook.png",
     "has_supporting_content": false,
-    "de_catalog_id": "basic_python_handson_notebook",
+    "de_catalog_id": "basic_python_hands_on_notebook",
     "source_repo": "https://github.com/i-data-explorer/basic-python-hands-on-notebook.git",
     "cover": "cover.md",
     "use_explorer_dataset": false,
@@ -22,7 +22,7 @@
               "Education"
           ],
           "Catalog Id": [
-              "basic_python_handson_notebook"
+              "basic_python_hands_on_notebook"
           ]
       }
 }
