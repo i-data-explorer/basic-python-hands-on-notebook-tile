@@ -1,0 +1,20 @@
+
+{
+    "title": "Basic Python Hands-on Notebook",
+    "description": "Notebook for Basic Python Hands-on Learning",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": [
+        "Notebook"
+    ],
+    "tag": [
+        "CSV"
+    ],
+    "de_catalog_id": "basic_python_handson_notebook",
+    "categories": [
+        "Education"
+    ],
+    "git_url": "",
+    "git_commit": "",
+    "installTime": "2 minutes"
+}
