@@ -1,3 +1,10 @@
-## Basic Python Machine Learning Notebook
+# Basic Python Machine Learning Notebook
 
-This notebook contain snippets of simple python code in tutorial style, acting as an introductory material for users keen to learn Python. It demonstrates the utility of python and it's built in functions, culiminating in a set of 12 challenges to prove your expertise.
+## What is the notebook about?
+This notebook is an introductory material to learn Python. 
+
+## What algorithms are used?
+No machine learning concepts are covered in this notebook, it is solely focussed on Python as a generic programming language.
+
+## What is the content of the notebook?
+This notebook contain snippets of simple python code in tutorial style. It demonstrates the utility of python with it's built in functions, data types and other features, culiminating in a set of 12 challenges to prove your expertise.
